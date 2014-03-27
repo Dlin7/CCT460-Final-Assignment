@@ -9,7 +9,7 @@
     function index()
     {
       $this->load->helper('form');
-      $data['Title'] = "My blog admin1";
+      $data['Title'] = "My blog admin";
       $data['posts'] = $this->blog_model->getPosts();
       $this->load->view('templates/header', $data);
       $this->load->view('admin_view', $data);
