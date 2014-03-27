@@ -2,7 +2,7 @@
 <?php echo form_open('admin/create') ?>
 
 
-  <label>Title</label>
+  <label>TitleTesting123</label>
   <input type="text" name="Title">
   <br>
   <label>Content</label>
