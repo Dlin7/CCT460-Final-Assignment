@@ -1,5 +1,4 @@
 <?php
-<!--testing 1,2,3-->
   class admin extends CI_Controller {
     public function __construct()
     {
