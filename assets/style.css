@@ -1,0 +1,88 @@
+body{
+	background-color:#191919;
+	background-image:url('pineapple.png');
+	background-position:right;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+
+}
+
+h1 {
+	font-family:"Impact";
+	font-style: bold;
+	font-size:3em;
+	color:#86B404;
+	text-align: left;
+	padding: 20px 20px 30px 40px;
+	background-color:#E0FFFF;
+	border-radius:8px;
+	width:600px;
+	margin-left:30px;
+	}
+
+h2 {
+	font-family: "Helvetica";
+	font-style: bold;
+	font-size:1.5em;
+	color:#FBB917;
+	padding: 20px 20px 10px 20px;
+}
+
+link {
+	color:#000000;
+}
+
+a:link {
+	color:#840000;
+}
+
+	
+a:hover {
+	color:#FBB917;
+
+}
+
+
+}	
+
+ul {
+	color:#840000;
+	background-color:#ffffff;
+
+
+}
+
+li {
+	color:#000000;
+	font-family: "helvetica";
+	font-style: bold;
+	background-color:#ffffff;
+	width:300px;
+	padding:40px 40px 40px 40px;
+	opacity:0.4;
+}
+
+label {
+	color:#86B404;
+	font-family: "Verdana";
+	font-style: bold;
+	margin-left:30px;
+	font-size:1.5em;
+
+}
+
+textarea {
+	width:100px;
+	height:20px;
+	border-radius:5px;
+	margin-top:20px;
+
+}
+
+
+	
+input {
+	width:100px;
+	height:20px;
+	border-radius:5px;
+}
